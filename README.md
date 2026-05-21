@@ -1,4 +1,3 @@
-# build whith cahyo dev
 
 # Point of Sale (POS) - Toko Berkah Utama
 
@@ -39,4 +38,4 @@ Aplikasi Kasir Pintar (Point of Sale) berbasis Android yang modern, cepat, dan m
 *(Tambahkan screenshot `app_screenshot.png` Anda di sini)*
 
 ---
-**Build with ❤️ by Cahyo Dev**
+**Build with by Cahyo Dev**
