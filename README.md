@@ -35,7 +35,7 @@ Aplikasi Kasir Pintar (Point of Sale) berbasis Android yang modern, cepat, dan m
    - Gunakan PIN: `1234` atau `0000` untuk masuk ke Dashboard.
 
 ## 📸 Preview
-*(Tambahkan screenshot `app_screenshot.png` Anda di sini)*
+
 
 ---
 **Build with by Cahyo Dev**
